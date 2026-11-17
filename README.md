@@ -69,7 +69,7 @@ User  --(1:N)--  Job  --(1:N)--  Application  --(N:1)--  User
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/rodhfr/devhire.git
+git clone https://github.com/Shreyanshpandeyweb/devhire.git
 cd devhire
 cp .env.example .env
 ```
